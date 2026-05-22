@@ -65,7 +65,8 @@ Architecture and Key Components
    * - GitHub
      - * Stores code, configs, and docs  
        * Enables reproducibility
-     - (add repo link)
+     - `Link to web page <https://github.com/birajborgohain/Yaml-Python-based-ASPECT-Landlab-workflow>`_
+
 
 
 
